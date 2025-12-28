@@ -4,7 +4,7 @@ __pycache__/
 .DS_Store
 .env
 .static/img/*
-
+.gitignore
 
 .idea/
 .vscode/
